@@ -16,4 +16,4 @@
 
 This work © 2025 by CanvaAI is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
 
-![Infographic được tạo bằng Canva AI](https://github.com/Cee4ys/ThucHanh01_Nhom5/blob/main/3.1/Infographic%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20b%E1%BA%B1ng%20Canva%20AI.png)
+[Infographic được tạo bằng Canva AI](https://github.com/Cee4ys/ThucHanh01_Nhom5/blob/main/3.1/Infographic%20%C4%91%C6%B0%E1%BB%A3c%20t%E1%BA%A1o%20b%E1%BA%B1ng%20Canva%20AI.png)
